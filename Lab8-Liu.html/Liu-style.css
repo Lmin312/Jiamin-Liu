@@ -1,0 +1,29 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color:#A59D84;
+    color: #edebe4;
+    font-width: 75%;
+    
+  }
+  
+  h1 {
+  font-weight: bold;
+  background-color: #A59D84;
+  font-size: 24px;
+  text-align: center;
+  margin: 10px 50px 20px;
+  }
+
+  h2 {
+    font-size: 20px;
+    color:whitesmoke
+    font-height: 10em;
+  }
+
+  h3 {
+    font-size: 30px;
+    border: #d3d0c6
+    color; white;
+    text-align: justify;
+    
+  }
